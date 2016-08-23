@@ -49,6 +49,7 @@
     "merge-stream": "^1.0.0",
     "plylog": "^0.4.0",
     "polylint": "^2.10.0",
+    "polymer-analyzer": "^2.0.0-alpha.10",
     "polymer-build": "^0.4.1",
     "polyserve": "^0.13.0",
     "request": "^2.72.0",
